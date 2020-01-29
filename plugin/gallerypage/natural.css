@@ -1,14 +1,14 @@
 .natural-gallery .natural-gallery-body .figure.loading {
-	background-color: rgba(0, 137, 224, 0.1);
+  background-color: rgba(0, 137, 224, 0.1);
 }
 
 .natural-gallery .bar::before,
 .natural-gallery .bar::after {
-	/*background-color: rgb(0, 137, 224) !important;*/
+  /*background-color: rgb(0, 137, 224) !important;*/
 }
 
 .natural-gallery .natural-gallery-body .figure.errored {
-	background-color: rgba(255, 0, 0, 0.1);
+  background-color: rgba(255, 0, 0, 0.1);
 }
 
 
@@ -17,7 +17,7 @@
 .natural-gallery .natural-gallery-searchTerm,
 .natural-gallery .natural-gallery-categories label,
 .natural-gallery .natural-gallery-images {
-	border-bottom-color: #999999 !important;
+  border-bottom-color: #999999 !important;
 }
 
 
@@ -27,8 +27,8 @@
 .natural-gallery .natural-gallery-categories .label,
 .natural-gallery .natural-gallery-categories input[type=checkbox]~.label svg,
 .natural-gallery .natural-gallery-noresults svg {
-	color: #999999 !important;
-	fill: currentColor !important;
+  color: #999999 !important;
+  fill: currentColor !important;
 }
 
 
@@ -36,7 +36,7 @@
 
 .natural-gallery .natural-gallery-searchTerm input,
 .natural-gallery .natural-gallery-categories input[type=checkbox]:checked~.label {
-	color: #444444 !important;
+  color: #444444 !important;
 }
 
 
@@ -51,31 +51,31 @@
 .natural-gallery .natural-gallery-searchTerm:hover input,
 .natural-gallery .natural-gallery-searchTerm:hover .sectionName,
 .natural-gallery .natural-gallery-images:hover .sectionName {
-	/*color: rgb(0, 137, 224) !important;*/
-	fill: currentColor !important;
+  /*color: rgb(0, 137, 224) !important;*/
+  fill: currentColor !important;
 }
 
 .natural-gallery .natural-gallery-categories input[type=checkbox]:checked~.label svg {
-	fill: rgb(0, 137, 224) !important;
+  fill: rgb(0, 137, 224) !important;
 }
 
 .natural-gallery .natural-gallery-next {
-	width: 50px;
+  width: 50px;
 }
 
 .natural-gallery .natural-gallery-next:hover {
-	background-color: #eeeeee !important;
+  background-color: #eeeeee !important;
 }
 
 .natural-gallery .figure.selected .selectBtn {
-	color: orange !important;
+  color: orange !important;
 }
 
 .natural-gallery .button {
-	background: rgb(0, 137, 224) !important;
-	border-top: 1px solid #45a8e0;
+  background: rgb(0, 137, 224) !important;
+  border-top: 1px solid #45a8e0;
 }
 
 .natural-gallery .button:hover {
-	background: rgb(0, 103, 187) !important;
+  background: rgb(0, 103, 187) !important;
 }

@@ -9,20 +9,24 @@
   overflow: auto;
   color: #666;
 }
+
 .entry .gist .gist-file {
   border: none;
   font-family: inherit;
   margin: 0;
   font-size: 0.9em;
 }
+
 .entry .gist .gist-file .gist-data {
   background: none;
   border-bottom: none;
 }
+
 .entry .gist .gist-file .gist-data pre {
   padding: 0 !important;
   font-family: font-mono;
 }
+
 .entry .gist .gist-file .gist-meta {
   background: none;
   color: color-meta;
@@ -31,12 +35,15 @@
   text-shadow: 0 0 1px #fff;
   font-size: 100%;
 }
+
 .entry .gist .gist-file .gist-meta a {
   color: color-link;
 }
+
 .entry .gist .gist-file .gist-meta a:visited {
   color: color-link;
 }
+
 figure.highlight {
   border: 1px solid color-border;
   margin-top: 15px;
@@ -48,37 +55,45 @@ figure.highlight {
   position: relative;
   font-size: 0.9em;
 }
+
 figure.highlight figcaption {
   color: color-meta;
   margin-bottom: 5px;
   text-shadow: 0 0 1px #fff;
 }
+
 figure.highlight figcaption a {
   position: absolute;
   right: 15px;
 }
+
 figure.highlight pre {
   border: none;
   padding: 10px;
   margin: 0;
 }
+
 figure.highlight table {
   margin-top: 0;
   border-spacing: 0;
 }
+
 figure.highlight .gutter {
   color: color-meta;
   padding-right: 15px;
   border-right: 1px solid color-border;
   text-align: right;
 }
+
 figure.highlight .code {
   border-left: 1px solid #fff;
   color: #666;
 }
+
 figure.highlight .line {
   height: 20px;
 }
+
 pre .comment,
 pre .template_comment,
 pre .diff .header,
@@ -89,6 +104,7 @@ pre .javadoc {
   color: #93a1a1;
   font-style: italic;
 }
+
 pre .keyword,
 pre .winutils,
 pre .method,
@@ -99,6 +115,7 @@ pre .status,
 pre .nginx .title {
   color: #859900;
 }
+
 pre .number,
 pre .command,
 pre .string,
@@ -109,6 +126,7 @@ pre .regexp,
 pre .hexcolor {
   color: #2aa198;
 }
+
 pre .title,
 pre .localvars,
 pre .chunk,
@@ -120,6 +138,7 @@ pre .literal,
 pre .id {
   color: #268bd2;
 }
+
 pre .attribute,
 pre .variable,
 pre .lisp .body,
@@ -130,6 +149,7 @@ pre .parent,
 pre .haskell .type {
   color: #b58900;
 }
+
 pre .preprocessor,
 pre .preprocessor .keyword,
 pre .shebang,
@@ -144,9 +164,11 @@ pre .cdata,
 pre .clojure .title {
   color: #cb4b16;
 }
+
 pre .deletion {
   color: #dc322f;
 }
+
 .gutter {
   width: 70px;
 }
